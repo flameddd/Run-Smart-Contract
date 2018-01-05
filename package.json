@@ -1,0 +1,23 @@
+{
+    "name": "nodeweb3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "asyncawait": "^1.0.6",
+        "big-integer": "^1.6.25",
+        "ethapi-js": "^0.4.2",
+        "ethereum-input-data-decoder": "0.0.2",
+        "jshint": "^2.9.5",
+        "log4js": "^2.3.3",
+        "number-converter": "^1.2.1",
+        "solc": "^0.4.16",
+        "util": "^0.10.3",
+        "web3": "^0.19.0"
+    }
+}
